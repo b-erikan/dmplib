@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdmplib.a CMakeFiles/dmplib.dir/src/dmp.cpp.o
+/usr/bin/ranlib libdmplib.a

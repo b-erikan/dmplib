@@ -1,0 +1,4 @@
+/home/berke/dmplib/build/CMakeFiles/dmplib.dir
+/home/berke/dmplib/build/CMakeFiles/dmp_app.dir
+/home/berke/dmplib/build/CMakeFiles/edit_cache.dir
+/home/berke/dmplib/build/CMakeFiles/rebuild_cache.dir
